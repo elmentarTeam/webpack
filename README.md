@@ -8,4 +8,4 @@ In this exapmle we can see the simle technology of SNABBDOM framework with webpa
    - bundle the project with webpack, create a dist package, copy the index.html, bundle.js, bundle.js.map into the dist folder
    - start server in port 8080
    - start another server in port 8090
-4. put in URL localhost:8080
+4. put in URL localhost:8090
