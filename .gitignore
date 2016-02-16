@@ -1,0 +1,12 @@
+#all files in this directory shoud be ignored
+
+node_modules/
+dist/
+
+
+
+
+#files that not be ignored
+!package.json
+!index.html
+
