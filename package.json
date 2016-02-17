@@ -14,15 +14,6 @@
     "type": "git",
     "url": "git"
   },
-    "keywords": [
-    "webpack",
-    "webpack dev server",
-    "webpack source mapping",
-    "webpack copy plugin",
-    "snabbdom",
-    "ramda"
-        ],
-    },
   "author": "Kalantar",
   "license": "ISC",
   "dependencies": {
